@@ -9,5 +9,6 @@
 
 #### 2. UI 구성
 ##### ● 계좌정보
-
+![1](https://user-images.githubusercontent.com/69396761/91282156-ee3f8280-e7c3-11ea-914f-f573a2e51a3a.gif) <hr/>
 ##### ● 가계부
+![2](https://user-images.githubusercontent.com/69396761/91282171-f5669080-e7c3-11ea-9d61-588e6d30b817.gif) <hr/>
